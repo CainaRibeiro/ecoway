@@ -25,7 +25,7 @@ body
 
 .top-main
 {
-    background-image: url("./images/plano-de-fundo.jpg");
+    background-image: url("../images/plano-de-fundo.jpg");
     width: 100%;
     height:60%;
     background-size: cover;
