@@ -56,6 +56,33 @@ body
     top: 8%
 }
 
+.download-buttom
+{
+    background-color: #CCE4F5;
+    width: 210px;
+    height: 70px;
+    border-radius: 51.5px;
+    position: absolute;
+    top: 110%;
+    right: 5%;
+    display: flex;
+    justify-content:center;
+    padding: 1% 0;
+}
+
+.download-icon
+{
+    width:40px;
+    height: 40px
+}
+
+.download-description
+{
+    font-size: 1.5em;
+    height: 40px;
+    padding-top: 1%;
+}
+
 .middle-main
 {
     width: 100%;
