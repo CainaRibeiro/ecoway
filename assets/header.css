@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Decol&display=swap');
+* 
+{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    color: #1F3A3E;
+}
+
+.header
+{
+    width: 100%;
+    height: 69px;
+    background: #F7F0B7;
+    display:flex;    
+}
+
+#header-left 
+{
+    width: 50%;
+    display:flex;
+    justify-content:flex-end;
+    font-family: Kaisei;
+}
+
+#logo
+{
+    width: 130px;
+    height:130px;
+}
+
+#name
+{
+    align-self:center;
+    padding-left:2%;
+    font-size: 3.3em;
+    font-weight: 400;
+    line-height: 1em;
+}
+
+#header-right 
+{
+    width:100%;
+    font-family: Delius;
+    font-size: 1.6em;
+    font-weight: 400;
+    line-height: 1em;
+    align-self:center;
+    padding-left:30%;
+}
+
+.navigator 
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+a 
+{
+    text-decoration: none;
+}

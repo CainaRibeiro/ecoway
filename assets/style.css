@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Share&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC&display=swap');
+
+* 
+{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box
+}
+
+body 
+{
+    font-family: 'Delius', cursive;
+    font-weight: 400;
+}
+
+.main
+{
+    width: 100%;
+    height: 1900px;
+}
+
+.top-main
+{
+    background-image: url("/images/plano-de-fundo.jpg");
+    width: 100%;
+    height:50%;
+    background-size: cover;
+}
+
+#top-main-left-1
+{
+    font-size: 3.5em;
+    font-family: Share;
+    position:absolute;
+    left:16%;
+    top:15%;
+}
+
+#top-main-left-2
+{
+    font-family:Encode Sans SC;
+    font-size: 1.5em;
+    position: absolute;
+    left: 15%;
+    top: 21%;
+}
+
+#top-main-right
+{
+    position: absolute;
+    right: 2%;
+    top: 8%
+}
+
+.bottom-main
+{
+    width: 100%;
+    height: 400px;
+    background-color: #CCE4F5;
+    display: flex;
+    justify-content:space-around;
+    align-content:center
+}
+
+.image-container
+{
+    display: grid;
+    margin-top: 10px;
+}
+
+.description
+{
+    font-size: 2em;
+    margin: 0 auto;
+
+}
+
+.image
+{
+    background-color:black;
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+}
+
+.map-image
+{
+    background-color:black;
+    width: 400px;
+    height: 300px;
+}
