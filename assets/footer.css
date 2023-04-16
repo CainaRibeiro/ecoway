@@ -5,3 +5,21 @@
     outline: 0;
     box-sizing: border-box
 }
+
+.footer
+{
+    background-color: #062D3E;
+    width: 100%;
+    height: 129px;
+    color: #FFFFFF;
+}
+
+.footer-left
+{
+    display: flex;
+}
+
+.image-footer
+{
+    width: 50px;
+}
