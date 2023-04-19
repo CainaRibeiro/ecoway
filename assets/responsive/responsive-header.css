@@ -1,0 +1,59 @@
+@media only screen and (max-width: 600px) {
+    
+    #header-left{
+        margin-left: 2%;
+    }
+    #logo{
+        width: 50px;
+        height: 50px;
+        margin-top: 20%;
+    }
+    #name{
+        font-size: 2em
+    }
+    #header-right{
+        font-size:1em;
+    }
+    .navigator {
+        flex-direction:column;
+        position:absolute;
+        top:8.1%;
+        left: 60%;
+        background-color: #F7F0B7;
+        align-items:center;
+        width: 40%;
+        height: 30%;
+        z-index:2;
+        font-size: 1em;
+        display: none;
+    }
+    .menu-button {
+        width:100%;
+        height:100%;
+        text-align:center;
+        padding-top: 13%;
+        border-bottom: 1px solid #062D3E;
+    }
+    .button1 {
+        border-top: 1px solid #062D3E;
+    }
+
+    #burger-menu-container {
+        width:  40px;
+        height: 40px;
+        display: flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+        cursor:pointer;
+    }
+
+    #line-menu {
+        width: 30px;
+        height: 5px;
+        border-radius: 5px;
+        margin: 2px 0px;
+        background-color: #062D3E
+    }
+    
+}

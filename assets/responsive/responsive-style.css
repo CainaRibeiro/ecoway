@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px){
+  
+    #top-main-left-1{
+        font-size: 1.8em;
+        top: 30%;
+        left: 13%
+    }
+    #top-main-left-2{
+        font-size: 1.2em;
+        top: 35%;
+        text-align:center;
+        left: 0%;
+    }
+}
