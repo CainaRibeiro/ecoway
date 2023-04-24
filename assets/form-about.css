@@ -24,21 +24,18 @@
     flex-direction:column;
     justify-content: center;
     padding: 2%;
-}
-
+};
 .input-form
 {
     width: 80%;
     margin: 1% auto;
     font-size:1.3em;
 }
-
 .text-form
 {
     width: 90%;
     margin: 5% auto;
 }
-
 .text-form-input
 {
     width: 100%;
