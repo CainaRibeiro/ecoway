@@ -4,7 +4,7 @@
 .container-saquarema-about
 {
     width: 100%;
-    background-image: url(/images/lagoa-header.jpg);
+    background-image: url(../images/lagoa-header.jpg);
     height: 160px;
     background-repeat:no-repeat;
     background-size: 100%;
