@@ -24,6 +24,7 @@
     flex-direction:column;
     justify-content: center;
     padding: 2%;
+    background-color: #67B2D7;
 };
 
 label
@@ -32,7 +33,7 @@ label
 }
 .input-form-info
 {
-    width: 88%;
+    width: 80%;
     height: 40px;
 }
 .text-form
@@ -54,7 +55,7 @@ label
 }
 #input-name,#input-email
 {
-    width: 80%;
+    width: 60%;
     font-size: 1.5em;
     height: 50px;
     padding-bottom: 1%;

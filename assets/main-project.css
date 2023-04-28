@@ -6,11 +6,11 @@
 }
 .header-image
 {
-    background-image: url(/images/igreja.jpg);
+    background-image: url(/images/lagoa-header2.jpg);
     height: 216px;
     background-repeat:no-repeat;
     background-size:cover;
-    background-position: center;
+    background-position: bottom;
 }
 .header-section
 {
