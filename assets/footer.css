@@ -11,7 +11,7 @@
 {
     background-color: #062D3E;
     width: 100%;
-    height: 127px;
+    height: auto;
     color: #FFFFFF;
     display: flex;
 }
